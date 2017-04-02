@@ -137,6 +137,8 @@ iteration: 9
 || -5 : → || -4 : → || -3 : → || -2 : → || -1 : ↓ || 
 
 || -4 : → || -3 : → || -2 : → || -1 : → || 0 : ← || 
+
+
 As it can be seen, it took just 9 iteration to reach convergence.
 If we increase the size of the maze, it can be seen that it take more time for convergence the log file consist of different maze size.
 
