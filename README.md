@@ -138,9 +138,9 @@ iteration: 9
 
 || -4 : → || -3 : → || -2 : → || -1 : → || 0 : ← || 
 As it can be seen, it took just 9 iteration to reach convergence.
-
-Example 5* 5 maze:
-In the following, you will see the execution on maze 5*5. We have listed each iteartion and it has taken 9 iteration for convergence.  
-We have printed in each cell first the value (which is the estimated distance from the goal) and the action (depicted by arrow ) on that cell of maze:(The starting point is [1,1] location of maze. The goal is [5,5] location of maze)
+If we increase the size of the maze, it can be seen that it take more time for convergence the log file consist of different maze size.
 
 
+
+GAMBLING PROBLEM:
+-------------------
