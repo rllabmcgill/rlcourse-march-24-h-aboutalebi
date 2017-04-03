@@ -6,7 +6,7 @@ In this assignment, we wanted to apply value iteration algorithm of Dynamic prog
 
 We have written a program, that given the starting point and goal point in a maze of arbitrary size, by value iteartion we find a path from starting to goal point.
 
-Maze
+Example 1: Maze
 -------------------------
 In the following, you will see the execution on maze 5*5. We have listed each iteartion and it has taken 9 iteration for convergence.  
 We have printed in each cell first the value (which is the estimated distance from the goal) and the action (depicted by arrow ) on that cell of maze:(The starting point is [1,1] location of maze. The goal is [5,5] location of maze)
@@ -144,7 +144,7 @@ If we increase the size of the maze, it can be seen that it take more time for c
 
 
 
-GAMBLING PROBLEM:
+Example 2: GAMBLING PROBLEM:
 -------------------
 
 
