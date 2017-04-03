@@ -153,6 +153,13 @@ Problem: A gambler bets on the outcomes of a sequence of coin flips. If the coin
 This is the result of action that should be taken based on capital for p=0.4:
 
 ![figure_1444](https://cloud.githubusercontent.com/assets/5707322/24595298/5a689706-1803-11e7-9911-8a319739c971.png)
+Note that there might be other optimal solutions but this is just one of them.
+
+As we expected the value function of each capital is just the probability of reaching 100 by betting.
+
+![figure_1sadsd](https://cloud.githubusercontent.com/assets/5707322/24595474/eadf1804-1804-11e7-87e4-9a338961481f.png)
+
+As it can be seen, when capital increases the chance of winining also increases.
 
 
 
