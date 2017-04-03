@@ -150,5 +150,9 @@ GAMBLING PROBLEM:
 
 Problem: A gambler bets on the outcomes of a sequence of coin flips. If the coin comes up heads, he wins as many dollars as he has staked on that flip; if it is tails, he loses his stake. The game ends when the gambler wins by reaching his goal of $100, or loses by running out of money. On each flip, the gambler must decide what portion of his capital to stake, in integer numbers of dollars. By value function we find optimal action of amount of betting based on the capital of gambler.
 
+This is the result of action that should be taken based on capital for p=0.4:
+
+![figure_1444](https://cloud.githubusercontent.com/assets/5707322/24595298/5a689706-1803-11e7-9911-8a319739c971.png)
+
 
 
